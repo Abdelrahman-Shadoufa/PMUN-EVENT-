@@ -4,7 +4,8 @@ version = "1.0.0"
 dependencies = [
     "flet",
     "supabase",
-    "opencv-python-headless"
+    "opencv-python-headless",
+    "pywhatkit"
 ]
 
 [tool.flet]
