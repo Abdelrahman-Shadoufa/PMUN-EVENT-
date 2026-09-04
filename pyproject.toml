@@ -1,0 +1,11 @@
+[project]
+name = "pmun_app"
+version = "1.0.0"
+description = "PMUN Concert Pass Manager"
+dependencies = [
+    "flet",
+    "supabase"
+]
+
+[tool.flet]
+main_module = "PMUN App.py"
